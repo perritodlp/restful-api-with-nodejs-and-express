@@ -162,4 +162,7 @@ temp/
 # Ignore all local history of files
 .history
 
+### Resources directory
+resources/
+
 # End of https://www.gitignore.io/api/node,linux,macos,visualstudiocode
